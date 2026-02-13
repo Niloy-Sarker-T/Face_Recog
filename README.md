@@ -3,6 +3,9 @@ Face Recognition Project with ESP32 Integration
 
 A Python-based face recognition system using deep learning, integrated with an ESP32 camera module.
 
+![Face Recognition Demo](images/archi.png)
+
+
 🚀 Features
 
 ✅ Detect faces from images or video streams
